@@ -1,0 +1,29 @@
+.container1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 350px;
+    flex-wrap: wrap;
+}
+.item1{
+    border: solid 3px rgb(92, 0, 0);
+    border-radius: 20px;
+    padding: 0 40px;
+    background-color: bisque;
+}
+.item4{
+    text-align: center;
+}
+.item3{
+    border-radius: 8px;
+    border: solid 2px rgb(92, 0, 0);
+    background-color: rgb(255, 244, 230);
+}
+img{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: -1;
+    height: 100%;
+    width: 100%
+}
