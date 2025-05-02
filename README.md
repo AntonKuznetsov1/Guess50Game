@@ -1,2 +1,2 @@
-# Guess50Game
-Guess 50 game
+# Guess100Game
+Guess 100 game
